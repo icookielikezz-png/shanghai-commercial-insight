@@ -1,0 +1,7 @@
+{
+  "name": "Shanghai Commercial Insight",
+  "description": "Interactive GIS dashboard for analyzing commercial influence zones in Shanghai using Gemini AI for accessibility and traffic prediction.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
